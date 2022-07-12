@@ -1,0 +1,59 @@
+h1 {
+    background-color:navy ;
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+    padding: .5em;
+    text-align:center ;
+    width: 100%;
+    margin: 0;
+}
+
+.hr1 {
+    background-color: lightblue;
+    width: 12cm;
+    height: .2cm;
+    border-color: lightblue;
+    border-style: none;
+    
+}
+
+h2 {
+    text-align: center;
+
+}
+
+p {
+    align-items: center;
+    width: 28em;
+    right: 10px;
+    font-family: sans-serif;
+    padding: 10px;
+}
+.d-flex {
+    display: flex;
+    outline: 1px dotted white;
+    justify-content: center;
+}
+img {
+    width: 200px;
+
+}
+
+.hr2 {
+    background-color: navy;
+    height: 4cm;
+}
+
+.p3 {
+    width: 8em;
+    text-align: right;
+}
+
+h3 {
+    text-align: center;
+}
+
+body {
+    margin: 0;
+}
